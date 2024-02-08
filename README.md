@@ -1,4 +1,4 @@
-**Tesing Purpose Projet**
+**Tesing Purpose Projet with Celery and Twilio**
 ---------------------------------
 **Technology-**
 Django,
